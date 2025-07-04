@@ -21,11 +21,11 @@ The YouTuber Data Analysis app is a Streamlit-based application designed to prov
 **Installation Instructions**  
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/SadafHabibb/Youtuber-Data-Analysis-App.git
+   git clone https://github.com/SadafHabibb/YouTuber-Data-Analysis-App.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd Youtuber-Data-Analysis-App
+   cd YouTuber-Data-Analysis-App
    ```
 3. **Install the required libraries**:
    ```bash
